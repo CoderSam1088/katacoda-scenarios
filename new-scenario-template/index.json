@@ -28,7 +28,7 @@
   },
   "environment": {
     "uilayout": "editor-terminal",
-    "uieditorpath": "/root/starter"
+    "uieditorpath": "/root/starter",
     "uisettings": "python:3.8"
   },
   "backend": {
