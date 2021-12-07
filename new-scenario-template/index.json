@@ -3,6 +3,7 @@
   "description": "A simple scenario example.",
   "difficulty": "Beginner",
   "time": "3 minutes",
+  "files": ["start.py"],
   "details": {
     "steps": [
       {
@@ -18,7 +19,6 @@
         "text": "step3.md"
       }
     ],
-    "files": ["start.py"],
     "intro": {
       "text": "intro.md",
       "code": "foreground.sh"
@@ -29,7 +29,7 @@
   },
   "environment": {
     "uilayout": "editor-terminal",
-    "uieditorpath": "/root/assets",
+    "uieditorpath": "/root",
     "uisettings": "javascript"
   },
   "backend": {
