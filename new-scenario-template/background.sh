@@ -1,2 +1,2 @@
-touch new.py
+touch my-project/new.py
 open new.py
