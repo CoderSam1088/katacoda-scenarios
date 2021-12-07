@@ -29,7 +29,7 @@
   },
   "environment": {
     "uilayout": "editor-terminal",
-    "uieditorpath": "/new-scenario-template",
+    "uieditorpath": "/root/new-scenario-template",
     "uisettings": "javascript"
   },
   "backend": {
