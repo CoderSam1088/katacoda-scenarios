@@ -18,7 +18,7 @@
         "text": "step3.md"
       }
     ],
-    "files": ["start.py"]
+    "files": ["start.py"],
     "intro": {
       "text": "intro.md",
       "code": "foreground.sh"
