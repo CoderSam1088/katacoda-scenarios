@@ -18,7 +18,7 @@
         "text": "step3.md"
       }
     ],
-    "files": ["/starter/start.py"],
+    "files": ["start.py"],
     "intro": {
       "text": "intro.md",
       "code": "foreground.sh"
@@ -29,7 +29,7 @@
   },
   "environment": {
     "uilayout": "editor-terminal",
-    "uieditorpath": "/starter",
+    "uieditorpath": "/root/starter",
     "uisettings": "javascript"
   },
   "backend": {
